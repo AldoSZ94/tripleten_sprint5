@@ -1,4 +1,4 @@
-# 📡 Proyecto 5: Análisis de Tarifas Prepago en Megaline
+# 📡 Proyecto: Análisis de Tarifas Prepago en Megaline
 
 Este es mi proyecto perteneciente al **Sprint N° 5** de mi formación como **Analista de Datos Jr. en TripleTen**.  
 En este proyecto realicé un análisis de datos de clientes del operador de telecomunicaciones **Megaline** para determinar cuál de sus dos tarifas prepago, **Surf** o **Ultimate**, genera más ingresos.
