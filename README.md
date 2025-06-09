@@ -18,7 +18,7 @@ En este proyecto realicé un análisis de datos de clientes del operador de tele
 ## 🛠️ Etapas del proyecto
 
 1. **Descripción de los datos**  
-   Se examinaron los registros de clientes, su ubicación, tipo de tarifa, cantidad de llamadas y mensajes enviados en 2018.
+   Se examinaron los registros de clientes, su ubicación, tipo de tarifa, cantidad de llamadas y mensajes.
 
 2. **Preprocesamiento**  
    Limpieza de datos y manejo de posibles valores ausentes o inconsistencias.
